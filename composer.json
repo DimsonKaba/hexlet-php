@@ -1,0 +1,10 @@
+{
+    "name": "dimson/hexlet-php",
+    "type": "project",
+    "authors": [
+        {
+            "name": "dimson"
+        }
+    ],
+    "require": {}
+}
