@@ -1,11 +1,11 @@
 {
     "name": "dimson/hexlet-php",
     "type": "project",
-    "authors": [
-        {
-            "name": "dimson"
-        }
-    ],
+    "autoload": {
+        "files": [
+            "src/Runner.php"
+        ]
+    },
     "require": {
         "tightenco/collect": "^9.52",
         "funct/funct": "^1.5"
